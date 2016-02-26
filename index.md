@@ -1,0 +1,10 @@
+---
+layout: page
+title: Big Data RU -Roel Bouman
+tagline: Page for the Big Data course by Roel Bouman
+description: Page for the Big Data course by Roel Bouman
+---
+
+test test
+[test](http://kbroman.org/simple_site/)
+[test2](pages/test.html)
